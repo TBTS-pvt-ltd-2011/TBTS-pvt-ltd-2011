@@ -1,0 +1,5 @@
+- 👋 Hi, we're The Beta Testing Studios!
+- 👀 We're interested in coding and robotics.
+- 🌱 We prefer to learn & use Python, Swift, and Kotlin.
+- 💞️ I’m looking to collaborate on projects involving Python, Swift, and Web development.
+- 📫 To reach us, go to: https://ps1894002.wixsite.com/the-codeground
